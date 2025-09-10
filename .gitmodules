@@ -5,3 +5,6 @@
 [submodule "QQreflimits"]
 	path = QQreflimits
 	url = https://github.com/jjkraker/qqreflimits
+[submodule "ppwdeming"]
+	path = ppwdeming
+	url = https://github.com/jjkraker/ppwdeming
